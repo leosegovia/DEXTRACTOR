@@ -73,5 +73,7 @@ Installation:
 
 If everything completed without any errors you should be able to run the following command under ~/bin/ and get a positive return for all items:
     
-    ```bash ldd dextractor```
+    ```bash
+    ldd dextractor
+    ```
  
